@@ -1,2 +1,11 @@
-# SmartFaceDetection
-FaceDetect-Arduino is a face detection system using Haar cascades, designed to identify human faces in real-time. Leveraging OpenCV and Arduino for integration, it provides accurate detection for various applications. This lightweight, efficient setup is ideal for embedded systems and edge AI projects.
+# Face Recognition Based Attendance System
+```
+This system aims to build an effective class attendancesystem using face recognition techniques.
+The proposedsystem will be able to mark the attendance via face Id.
+It will detect faces via webcam and then recognize the faces. 
+Afterrecognition, it will mark the attendance of the recognizedstudent and update the attendance record.
+```
+# Steps
+```
+1. Extract TrainingimageLabel.rar file.
+```
